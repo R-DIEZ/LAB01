@@ -54,4 +54,3 @@ Este informe documenta la resolución de los niveles del juego de seguridad info
 
 El laboratorio de Bandit proporciona una excelente introducción a la seguridad informática y la administración de sistemas Linux. Se abordaron técnicas de búsqueda, manipulación de archivos y fuerza bruta, esenciales para la ciberseguridad. 
 
-Se recomienda explorar niveles superiores y documentar enfoques alternativos para cada desafío.
